@@ -1,6 +1,6 @@
 # Border-radius Playground
 
-In this app you can change one of eight values for the border-radius CSS property to create complex shapes and see in real-time how each one of them affects the box.
+In this app you can change the eight values for the border-radius CSS property to create complex shapes and see in real-time how each one of them affects the box.
 
 ## Live at: [border-radius.fmmendes.com](https://border-radius.fmmendes.com)
 
@@ -33,10 +33,10 @@ $ yarn
 To start server on port 3000:
 
 ```
-$ // using npm
+// using npm
 $ npm run start 
 
-$ // or using yarn
+// or using yarn
 $ yarn start
 ```
 
