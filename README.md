@@ -42,6 +42,7 @@ $ yarn start
 
 ## Built With
 
+* [Typescript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output
 * [Create React App](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command
 * [Styled Components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 
